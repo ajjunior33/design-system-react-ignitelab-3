@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 yarn-error.log
 yarn.lock
+
+#Storybook
+storybook-static  
